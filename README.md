@@ -84,4 +84,4 @@ Computes maximum flow from plant to city and identifies critical edges whose rem
 ## Other Contributors
 
 - [Himanshu Garg](https://www.github.com/himanshu-garg10)
-- [Rakshika Sharma](https://www.github.com/rakshika1)
+- [Labish Bardiya](https://github.com/labishbardiya)
